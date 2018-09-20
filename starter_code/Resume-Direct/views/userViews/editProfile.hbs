@@ -1,0 +1,24 @@
+Edit {{user.name}}
+</h1>
+
+
+
+
+
+<form action="/profilePage/update/{{user._id}}" method="POST">
+
+
+    <label for="">Name</label>
+    <input type="text" name="name" value="{{user.name}}">
+
+    <label for="">Occupation</label>
+    <input type="text" name="work" value="{{user.work}}">
+
+    <label for="">Catch Phrase</label>
+    <input type="text" name="interests" value="{{user.interests}}">
+
+    <button>Submit</button>
+
+
+
+</form>
