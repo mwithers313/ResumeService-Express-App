@@ -8,6 +8,11 @@ router.get('/contact', (req, res, next) => {
   res.render('contact');
 });
 
+
+router.get('/orderPage', (req, res, next) => {
+  res.render('userViews/orderPage');
+});
+
 //welcome page    
 router.get('/welcomePage', (req, res, next) => {
   console.log("user info when going to welcome page %%%%%%%%%%%%%%%%%%%%%%%%% ", req.user);

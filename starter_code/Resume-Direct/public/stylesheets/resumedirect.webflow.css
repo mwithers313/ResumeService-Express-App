@@ -1,3 +1,36 @@
+.signup{
+  padding: 15px;
+  border: 1px solid #dcebf7;
+  border-radius: 70px;
+  background-color: #192024;
+  box-shadow: 5px 0 22px 0 blue;
+  text-align: center;
+
+}
+
+.createProfile{
+  padding: 15px;
+  border: 1px solid #dcebf7;
+  border-radius: 70px;
+  background-color: #192024;
+  box-shadow: 5px 0 22px 0 blue;
+  text-align: center;
+
+}
+
+.loginPage{
+
+  padding: 15px;
+  border: 1px solid #dcebf7;
+  border-radius: 70px;
+  background-color: #192024;
+  box-shadow: 5px 0 22px 0 blue;
+  text-align: center;
+}
+
+}
+
+
 .orderButtons{
 
   float: right;
