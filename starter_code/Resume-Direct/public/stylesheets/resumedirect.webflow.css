@@ -1,10 +1,32 @@
+
+
+.stuff{
+
+
+  margin-left: 77px;
+}
+
+
+.createButton{
+
+  margin-left: 1025px;
+
+
+
+}
+
 .signup{
-  padding: 15px;
+  
+  margin-bottom: 50px;
+  width: 80%;
+  padding: 30px;
   border: 1px solid #dcebf7;
   border-radius: 70px;
   background-color: #192024;
   box-shadow: 5px 0 22px 0 blue;
   text-align: center;
+  margin-left: 142px;
+  margin-top: 50px;
 
 }
 
@@ -19,22 +41,31 @@
 }
 
 .loginPage{
-
-  padding: 15px;
+  
+  margin-bottom: 50px;
+  width: 80%;
+  padding: 30px;
   border: 1px solid #dcebf7;
   border-radius: 70px;
   background-color: #192024;
   box-shadow: 5px 0 22px 0 blue;
   text-align: center;
-}
+  margin-left: 142px;
+  margin-top: 50px;
 
 }
+
+
 
 
 .orderButtons{
 
   float: right;
+  padding-top: 10px;
+  margin-bottom: 10px;
+
 }
+
 
 
 .pleaseWork{
@@ -72,6 +103,8 @@ margin: 20px;
 
 
 background-color: black;
+padding: 5px;
+padding-top: 20px;
 
 }
 
@@ -185,12 +218,12 @@ margin-left: 20px;
     background-color: #eee;
     color: #444;
     cursor: pointer;
-    padding: 18px;
+    padding: 28px;
     width: 100%;
     border: none;
     text-align: left;
     outline: none;
-    font-size: 15px;
+    font-size: 20px;
     transition: 0.4s;
     width: 50%;
 }
@@ -245,7 +278,7 @@ button {
     margin: 8px 0;
     border-radius: 15px;
     cursor: pointer;
-    width: 100%;
+    width: auto;
     opacity: 0.9;
 }
 
@@ -267,7 +300,8 @@ button:hover {
 
 /* Add padding to container elements */
 .container {
-    padding: 16px;
+width: 100%
+
 }
 
 /* The Modal (background) */
@@ -471,6 +505,7 @@ strong {
   margin-right: -99px;
   padding-right: 0px;
   background-color: transparent;
+  padding: 10px;
  
 }
 
@@ -480,7 +515,7 @@ strong {
   margin-right: -99px;
   padding-right: 0px;
   background-color: black;
-
+padding-top: 10px;
 
 
 }
@@ -517,6 +552,7 @@ strong {
 .brand-link {
   padding-top: 16px;
   padding-bottom: 16px;
+  margin-left: 33px;
 }
 
 .pricing1 {
@@ -805,8 +841,7 @@ strong {
 }
 
 .container {
-  margin-right: 8px;
-  margin-left: 242px;
+ width: 100%;
 }
 
 .form-wrapper-2 {
@@ -924,7 +959,7 @@ strong {
   -ms-flex-pack: center;
   justify-content: center;
   font-family: Montserrat, sans-serif;
-         margin-bottom: 170px;
+         margin-bottom: 96px;
     margin-top: -374px;
 }
 
@@ -1080,6 +1115,7 @@ strong {
 .heading-10 {
   text-align: center;
   text-shadow: 2px 2px #192024;;
+  margin-right: 5px;
 }
 
 .heading-11 {
@@ -1092,7 +1128,7 @@ strong {
 }
 
 .div-block-9 {
-  width: 73px;
+  width: 100px;
   margin-top: 113px;
   margin-left: 182px;
   padding-top: 10px;
